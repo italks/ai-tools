@@ -11,10 +11,10 @@ hero:
     actions:
         - theme: brand
           text: ChatGPT
-          link: /getting-started.md
+          link: https://chat.openai.com/chat
         - theme: alt
-          text: 查看源码
-          link: https://github.com/italks/italks.github.io
+          text: Midjourney
+          link: https://www.midjourney.com/
 
 features:
   - icon:
