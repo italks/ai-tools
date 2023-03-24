@@ -2,7 +2,7 @@ export default {
     lang: 'zh-CN',
     title: 'AI 工具集',
     description: '分享GAN AI在各领域的应用',
-    base: '/',
+    base: '.',
     cleanUrls: true,
     lastUpdated: true,
 
