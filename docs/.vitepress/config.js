@@ -31,11 +31,11 @@ export default {
 }
 function nav() {
     return [
-        { text: '文字', link: '/words',activeMatch:'/words/' },
-        {text:'图片',link:'/images',activeMatch:'/images/'},
-        { text: '音频', link: '/voices',activeMatch:'/voices/' },
-        { text: '视频', link: '/videos',activeMatch:'/videos/' },
-        { text: '国内镜像', link: '/china',activeMatch:'/china/' },
+        { text: '文字', link: '/words',activeMatch:'/words' },
+        {text:'图片',link:'/images',activeMatch:'/images'},
+        { text: '音频', link: '/voices',activeMatch:'/voices' },
+        { text: '视频', link: '/videos',activeMatch:'/videos' },
+        { text: '国内镜像', link: '/china',activeMatch:'/china' },
     ]
 }
 
