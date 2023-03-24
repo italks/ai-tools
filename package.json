@@ -1,0 +1,26 @@
+{
+  "name": "ai-tools",
+  "version": "1.0.0",
+  "description": "ai工具集",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/italks/ai-tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/italks/ai-tools/issues"
+  },
+  "homepage": "https://github.com/italks/ai-tools#readme",
+  "dependencies": {
+    "vitepress": "^1.0.0-alpha.61",
+    "vue": "^3.2.47"
+  }
+}

@@ -1,0 +1,10 @@
+# AI文本
+1. [ChatGPT官网](https://chat.openai.com/chat)
+2. [Notion Al官网](https://www.notion.so/product/ai)
+3. [AI Data Sidekick官网](https://www.airops.com/)
+4. [Writesonic官网](https://writesonic.com/)
+5. [Copy.ai官网](https://www.copy.ai/)
+6. [Fireflies官网](https://fireflies.ai/)
+7. [Jasper官网](https://www.jasper.ai/)
+8. [Outplay官网](https://www.outplayhq.com/)
+9.  [Cowriter官网](https://cowriter.com/)
