@@ -15,6 +15,9 @@ hero:
         - theme: alt
           text: Midjourney
           link: https://www.midjourney.com/
+        - theme: alt
+          text: Github Copilot
+          link: https://github.com/features/copilot
 
 features:
   - icon:
